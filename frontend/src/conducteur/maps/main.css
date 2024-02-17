@@ -1,0 +1,17 @@
+/* Masquer tous les éléments avec les classes spécifiées sauf le premier */
+.leaflet-top.leaflet-right > .leaflet-routing-container:not(:first-child),
+.leaflet-bottom.leaflet-right > .leaflet-control-attribution,
+.leaflet-routing-add-waypoint {
+  display: none;
+}
+
+.leaflet-container.leaflet-touch.leaflet-retina.leaflet-fade-anim.leaflet-grab.leaflet-touch-drag.leaflet-touch-zoom {
+  width: 337px;
+  height: 300px;
+}
+/*  .leaflet-routing-collapse-btn,nahitou men fouk
+
+.leaflet-container {
+  background-color: transparent !important;
+}
+*/

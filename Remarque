@@ -1,0 +1,14 @@
+backend:
+server is running:npm start
+app.get("/",(req = howa meli yji men front lel back 
+,res  li bch nabathou mel server lel client
+,next
+)
+exple:app.get('/', (req, res, next) => {
+  res.send('rania');
+});
+
+Model: yemchi lel bd  wy jib data mel db
+kif yemchi bch yjib data s yo93Od wa9t donc ahna manhbouch noakdou net2kdou eli donnees weslou donc bch nest3mlou asycn,await,..Promise  namlou amaleyet entidhar hata yjiw l donnees
+model marbout b controller (howa li ynafedh l model )
+route howa yestd3a controller bch yekhdm khedmtou
